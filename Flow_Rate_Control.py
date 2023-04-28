@@ -1,7 +1,7 @@
 """
-Flow_Rate_Control.py
+Flow_Rate_Control.py Version 1.0
 
-Written by: Brian Hinger 4/25/2023
+Written by: Brian Hinger 4/28/2023
 
 Flow Rate Control Script
 This script provides a GUI for controlling the flow rate of fluid out of a pressurized reservoir.
